@@ -10,13 +10,6 @@ const modificarNombres = (data) => {
   return newArr; 
 };
 
-const calcular = () => {};
-
 window.potter = {
-  modificarNombres,
-  calcular
+  modificarNombres
 };
-
-// 1 Potter sea un objeto
- // 1.1 modificarNombres sea una función
-    // retorne un nuevo array
