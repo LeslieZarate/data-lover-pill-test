@@ -1,0 +1,8 @@
+.personaje {
+  outline : 1px solid blueviolet;
+  display: inline-block;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  width: 200px;
+  text-align: center;
+}
