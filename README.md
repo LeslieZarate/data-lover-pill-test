@@ -1,9 +1,4 @@
-# Manipulando Data con JavaScript
-
-Cuando trabajas en proyectos de JavaScript, inevitablemente te encuentrarás con
-situaciones en las que tiene que hacer algo de manipulación de datos.
-Inicialmente cuando empezamos, lo hacemos con lo `for-loops`.
-Aquí hay un ejemplo:
+# Manipulando Data con JavaScript - test-or-not-test
 
 ## Asignación por valor y asignación por referencia
 
@@ -21,5 +16,5 @@ averigualo con la siguiente lectura: Integridad referencial e inmutabilidad
  [Object.hasOwnProperty](https://alligator.io/js/dealing-with-objects)
 
  [Object.keys](https://alligator.io/js/dealing-with-objects)
- 
+
  [Object.assign](https://alligator.io/js/dealing-with-objects)
